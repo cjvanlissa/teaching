@@ -1,0 +1,41 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-"
+)
+```
+
+# teaching
+
+<!--[![CRAN status](https://www.r-pkg.org/badges/version/tidySEM)](https://cran.r-project.org/package=tidySEM)
+[![](https://cranlogs.r-pkg.org/badges/tidySEM)](https://cran.r-project.org/package=tidySEM)-->
+<!--[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![Travis build status](https://travis-ci.org/cjvanlissa/tidySEM.svg?branch=master)](https://travis-ci.org/cjvanlissa/tidySEM)-->
+<!--[![Codecov test coverage](https://codecov.io/gh/cjvanlissa/tidySEM/branch/master/graph/badge.svg)](https://codecov.io/gh/cjvanlissa/tidySEM?branch=master)
+<!--[![DOI](http://joss.theoj.org/papers/10.21105/joss.00978/status.svg)](https://doi.org/10.21105/joss.00978)-->
+
+## Installation
+
+<!--You can install tidySEM from CRAN with:
+
+```{r, eval = F}
+install.packages("tidySEM")
+```
+-->
+You can install the development version of `teaching` from 'GitHub' with:
+
+```{r gh-installation, eval = FALSE}
+install.packages("devtools")
+devtools::install_github("cjvanlissa/teaching")
+```
+
+## Documentation
+
+Every user-facing function in the package is documented, and the documentation can be accessed by running `?function_name` in the R console, e.g., `?read_bb`.

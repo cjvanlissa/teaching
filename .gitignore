@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*ellipse.R
+*ellipse.R
+inst/doc
+doc
+Meta
+dev/
+*.RData
+tests/test_local.R
+*.psd
+CRAN-RELEASE
